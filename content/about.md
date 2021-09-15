@@ -1,7 +1,7 @@
 ---
 title: About
 layout: advanced
-page_css_class: gray-background
+page_css_class: blue-background
 sections:
   - type: header_section
     section_id: header_section
