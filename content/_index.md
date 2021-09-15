@@ -10,7 +10,7 @@ sections:
     content: |
       # Haine pentru starea ta de bine
     actions:
-      - title: See all items
+      - title: Vezi toate produsele
         url: /store
         arrow: true
         style: primary
