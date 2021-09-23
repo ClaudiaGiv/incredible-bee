@@ -34,7 +34,7 @@ models:
         options:
           - cyan
           - green
-          - yellow
+          - blue
         default: green
         required: true
       - type: string
