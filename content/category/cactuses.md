@@ -1,5 +1,5 @@
 ---
-title: Cactuses
+title: Bucatarie
 layout: category
 order: 2
 seo:
