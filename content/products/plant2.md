@@ -4,7 +4,7 @@ id: '2'
 price: '24.97'
 title: Vas cereale
 description: Suspendisse efficitur eget erat sit amet efficitur.
-default_thumbnail_image: images/plant2.jpg
+default_thumbnail_image: images/bucatarie1.jpg
 default_original_image: images/bucatarie1.jpg
 order: 2
 category: content/category/cactuses.md
