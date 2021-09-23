@@ -4,7 +4,7 @@ id: '3'
 price: '34.97'
 title: Set farfurii
 description: 'Nulla non pretium metus, vitae finibus lectus.'
-default_thumbnail_image: images/plant3.jpg
+default_thumbnail_image: images/bucatarie2.jpg
 default_original_image: images/bucatarie2.jpg
 featured: true
 order: 3
