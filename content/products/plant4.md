@@ -4,7 +4,7 @@ id: '4'
 price: '19.97'
 title: Manusa bakery
 description: Maecenas pretium blandit ex id lobortis.
-default_thumbnail_image: images/plant4.jpg
+default_thumbnail_image: images/bucatarie4.png
 default_original_image: images/bucatarie4.png
 order: 4
 category: content/category/cactuses.md
