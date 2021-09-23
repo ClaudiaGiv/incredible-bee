@@ -6,7 +6,7 @@ title: Sapun de maini
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
   volutpat massa dolor id purus.
-default_thumbnail_image: images/plant5.jpg
+default_thumbnail_image: images/baie2.png
 default_original_image: images/baie2.png
 featured: true
 order: 5
