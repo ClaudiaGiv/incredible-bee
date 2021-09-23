@@ -13,7 +13,7 @@
     "palette": "yellow",
     "main_menu": [
         {
-            "title": "Store",
+            "title": "Magazin",
             "url": "/store",
             "style": "link",
             "arrow": false
