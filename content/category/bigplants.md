@@ -1,5 +1,5 @@
 ---
-title: Big plants
+title: BAIE
 layout: category
 order: 1
 seo:
