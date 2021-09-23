@@ -8,7 +8,7 @@ sections:
     background_image: images/background2.jpg
     background_image_opacity: 65
     content: |
-      # Confort in casa ta
+      # Bucura-te de confort in casa ta
     actions:
       - title: Vezi toate produsele
         url: /store
