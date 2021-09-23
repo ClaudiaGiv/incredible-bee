@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '5'
-price: '220.00'
+price: '23.97'
 title: Sapun de maini
 description: >-
   Donec finibus, augue in sagittis auctor, mi neque convallis arcu, quis
