@@ -8,7 +8,7 @@ sections:
     background_image: images/background2.jpg
     background_image_opacity: 65
     content: |
-      # Haine pentru starea ta de bine
+      # Mobila pentru confortul tau
     actions:
       - title: Vezi toate produsele
         url: /store
