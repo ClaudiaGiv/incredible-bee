@@ -1,5 +1,5 @@
 ---
-title: DOrmitor
+title: DORMITOR
 layout: category
 order: 3
 seo:
