@@ -34,6 +34,7 @@ seo:
     - name: 'twitter:image'
       value: images/plant7-lg.jpg
       relativeUrl: true
+featured: true
 ---
 
 # Sed consectetur
