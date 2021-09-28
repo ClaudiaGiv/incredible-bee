@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '6'
-price: '100.00'
+price: '14.97'
 title: Recipient sapun
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/plant6.jpg
