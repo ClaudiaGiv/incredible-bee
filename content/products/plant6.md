@@ -3,7 +3,7 @@ layout: product
 id: '6'
 price: '14.97'
 title: Recipient sapun
-description: Cras molestie faucibus ipsum ut vulputate.
+description: Recipient pentru sapun
 default_thumbnail_image: images/plant6.jpg
 default_original_image: images/baie4.png
 order: 6
