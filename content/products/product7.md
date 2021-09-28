@@ -12,6 +12,7 @@ seo:
   extra: []
 layout: product
 default_original_image: images/dormitor1.jpg
+category: content/category/europe.md
 ---
 ## Lorem ipsum
 
