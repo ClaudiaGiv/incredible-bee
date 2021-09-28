@@ -4,7 +4,7 @@ title: Perna cu memorie
 description: lorem-ipsum
 price: '34.97'
 order: 4
-featured: false
+featured: true
 seo:
   title: ''
   description: ''
