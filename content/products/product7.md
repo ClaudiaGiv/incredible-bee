@@ -1,6 +1,6 @@
 ---
 id: lorem-ipsum
-title: lorem-ipsum
+title: Parna cu memorie
 description: Perna cu memorie
 price: '23.97'
 order: 0
