@@ -11,6 +11,7 @@ seo:
   robots: []
   extra: []
 layout: product
+default_original_image: images/dormitor1.jpg
 ---
 ## Lorem ipsum
 
