@@ -19,7 +19,7 @@ sections:
     image: images/promo.jpg
     background_image: /images/leaf.svg
     cta:
-      title: Discover
+      title: Descopera
       url: /store
       style: secondary
       arrow: true
