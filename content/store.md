@@ -15,7 +15,7 @@ sections:
   - type: promotion_section
     section_id: promotion_section
     title: Articole pentru casa ta
-    subtitle: from $149.99
+    subtitle: incepand de la RON 8.97
     image: images/promo.jpg
     background_image: /images/leaf.svg
     cta:
