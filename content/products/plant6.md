@@ -5,7 +5,7 @@ price: '100.00'
 title: Donec finibus
 description: Cras molestie faucibus ipsum ut vulputate.
 default_thumbnail_image: images/plant6.jpg
-default_original_image: images/plant6-lg.jpg
+default_original_image: images/baie4.png
 order: 6
 category: content/category/bigplants.md
 seo:
