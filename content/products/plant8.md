@@ -2,7 +2,7 @@
 layout: product
 id: '8'
 price: '50.00'
-title: Fusce sed
+title: Perna canapea
 description: In cursus sagittis eros non congue.
 default_thumbnail_image: images/dormitor4.png
 default_original_image: images/dormitor4.png
