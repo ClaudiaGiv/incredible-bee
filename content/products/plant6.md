@@ -4,7 +4,7 @@ id: '6'
 price: '14.97'
 title: Recipient sapun
 description: Recipient pentru sapun
-default_thumbnail_image: images/plant6.jpg
+default_thumbnail_image: images/baie4.png
 default_original_image: images/baie4.png
 order: 6
 category: content/category/bigplants.md
