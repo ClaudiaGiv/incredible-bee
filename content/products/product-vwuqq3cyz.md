@@ -11,6 +11,7 @@ seo:
   robots: []
   extra: []
 layout: product
+category: content/category/europe.md
 ---
 ## Lorem ipsum
 
