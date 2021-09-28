@@ -1,7 +1,7 @@
 ---
 layout: product
 id: '8'
-price: '50.00'
+price: '13.97'
 title: Perna canapea
 description: Perna confortabila pentru canapea
 default_thumbnail_image: images/dormitor4.png
